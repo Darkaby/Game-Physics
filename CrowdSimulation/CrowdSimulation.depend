@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1550758290 source:/home/darkaby/Documents/C++ Projects/CrowdSimulation/library.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"library.h"
+
+1550647789 /home/darkaby/Documents/C++ Projects/CrowdSimulation/library.h
+	<iostream>
+
+1550647756 source:/home/darkaby/Documents/C++ Projects/CrowdSimulation/main.cpp
+	<iostream>
+	<stdlib.h>
+	"library.h"
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+

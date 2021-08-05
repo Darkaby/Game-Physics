@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1550758056 source:/home/darkaby/Documents/C++ Projects/ParticleExplosion/main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	"particle.h"
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1550757852 source:/home/darkaby/Documents/C++ Projects/ParticleExplosion/particle.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<cmath>
+	"particle.h"
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1550539168 /home/darkaby/Documents/C++ Projects/ParticleExplosion/particle.h
+

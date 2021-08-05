@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1550685238 source:/home/darkaby/Documents/C++ Projects/BouncingBall/main.cpp
+	<iostream>
+	<stdlib.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"objects.h"
+
+1550685518 source:/home/darkaby/Documents/C++ Projects/BouncingBall/objects.cpp
+	<cmath>
+	<cstdlib>
+	<math.h>
+	<vector>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"objects.h"
+
+1550685003 /home/darkaby/Documents/C++ Projects/BouncingBall/objects.h
+	<vector>
+
+1550343828 source:/home/darkaby/Documents/C++ Projects/BouncingBall/RgbImage.cpp
+	"RgbImage.h"
+	"GL/gl.h"
+
+1550343573 /home/darkaby/Documents/C++ Projects/BouncingBall/RgbImage.h
+	<stdio.h>
+	<assert.h>
+
+1626777060 source:c:\users\alsev\documents\projets programmation\c++ projects\bouncingball\main.cpp
+	<iostream>
+	<stdlib.h>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"objects.h"
+
+1626777060 c:\users\alsev\documents\projets programmation\c++ projects\bouncingball\objects.h
+	<vector>
+
+1626777060 source:c:\users\alsev\documents\projets programmation\c++ projects\bouncingball\objects.cpp
+	<cmath>
+	<cstdlib>
+	<math.h>
+	<vector>
+	<OpenGL/OpenGL.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"objects.h"
+
+1626777060 source:c:\users\alsev\documents\projets programmation\c++ projects\bouncingball\rgbimage.cpp
+	"RgbImage.h"
+	"GL/gl.h"
+
+1626777060 c:\users\alsev\documents\projets programmation\c++ projects\bouncingball\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
